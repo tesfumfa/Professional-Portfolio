@@ -1,3 +1,14 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
 :root {
     --light-blue: #91f9fd;
 
